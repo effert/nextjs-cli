@@ -9,3 +9,6 @@
 - [x] prettier
 - [x] eslint
 - [x] husky
+
+## 使用方法
+`enc create your-project-name`
