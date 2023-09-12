@@ -1,6 +1,6 @@
 {
   "name": "effert-nextjs-cli",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "a nextjs project template",
   "main": "index.js",
   "bin": {
