@@ -11,4 +11,7 @@
 - [x] husky
 
 ## 使用方法
-`enc create your-project-name`
+```
+yarn add effert-nextjs-cli global
+enc create your-project-name
+```
