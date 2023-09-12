@@ -12,6 +12,6 @@
 
 ## 使用方法
 ```
-yarn add effert-nextjs-cli global
+yarn global add effert-nextjs-cli
 enc create your-project-name
 ```
